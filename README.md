@@ -7,7 +7,7 @@ This project investigates customer churn for a telecom company by combining desc
 1. ETL Process
 A structured ETL (Extract, Transform, Load) pipeline was implemented using SQL Server tools:
 
-- Source data ingested from CSV files.
+Source data ingested from CSV files.
 
 Transformation and cleaning using SQL queries.
 
