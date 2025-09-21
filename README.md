@@ -5,7 +5,7 @@ An interactive Power BI dashboard project designed to analyze customer churn beh
 This project investigates customer churn for a telecom company by combining descriptive and predictive analytics using Power BI, SQL, and Python. It comprises four major components:
 
 1. ETL Process
-A structured ETL (Extract, Transform, Load) pipeline was implemented using SQL Server tools:
+ A structured ETL (Extract, Transform, Load) pipeline was implemented using SQL Server tools:
 
 Source data ingested from CSV files.
 
